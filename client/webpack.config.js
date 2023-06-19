@@ -16,6 +16,7 @@ module.exports = () => {
     output: {
       filename: '[name].bundle.js',
       path: path.resolve(__dirname, 'dist'),
+      publicPath: "",
     },
     // workbox plugins for a service worker and manifest file.
     plugins: [
