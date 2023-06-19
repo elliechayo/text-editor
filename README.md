@@ -1,4 +1,4 @@
-# Text Editor 
+# Text Editor Web Application
 
 The objective of the project was to build a text editor that runs in the browser so an user can create notes or code snippets with or without an internet connection and can reliably retrieve them for later use
 
@@ -60,23 +60,21 @@ THEN I should have proper build scripts for a webpack application
 ## Preview
 <hr>
 
-The following walkthrough videos show the web application's appearance and functionality:
 
-***Users & friends routes***
-[![walkthrough video](/assests/image1.png)](https://drive.google.com/file/d/1QEHBn6YUJIu8816osKOn8Nota5qpXKsP/view)
+The following video shows the web application appearance and functionality once deployed: 
 
-***Thoughts & reaction routes***
-[![walkthrough video](/assests/image1.png)](https://drive.google.com/file/d/13ZLZE1ubP8vJjyxfN-aZxti04zFSuW1a/view)
 
+[![Walkghtough of the deployed application](/images/image1.png)](https://drive.google.com/file/d/1P6SsvyRrR-8xwCs2DK2WoyjwwAU3Fn6H/view)
 
 
 
 ## Links
 <hr>
 
-
 [URL of the GitHub repository](https://github.com/elliechayo/text-editor)
-[URL to the deployed application](https://text-editor-ec-598bb6051ba7.herokuapp.com/)
+
+[Deployed Application URL](https://text-editor-ec-598bb6051ba7.herokuapp.com/)
+
 
 ## License
 <hr>
